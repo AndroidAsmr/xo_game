@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">XoGame</string>
+    <string name="xo_game">Xo Game</string>
+    <string name="play_game">Play Game</string>
+    <string name="_0">0</string>
+    <string name="vs">vs</string>
+</resources>
